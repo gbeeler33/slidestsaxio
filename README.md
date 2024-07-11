@@ -1,2 +1,0 @@
-# slidestsaxio
-My awesome repository
